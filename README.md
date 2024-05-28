@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=back12)](https://solved.ac/back12)<br/>
 🛠Skills
-Platforms & Language 🌱
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+Platforms & Language 🌱<br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
