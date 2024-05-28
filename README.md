@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 🛠Skills
 Platforms & Language 🌱<br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+Infra 💻
+<img src="https://img.shields.io/badge/Oracle-#F80000?style=flat&logo=Oracle&logoColor=white"/>
+Tools 🔩
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-#F05032?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-#181717?style=flat&logo=GitHub&logoColor=white"/>
