@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+배우려는 의지와 열정이 충만한 백엔드 개발자 입니다.
 <!--
 **Bkukim/Bkukim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=back12)](https://solved.ac/back12)<br/>
+🛠Skills
+Platforms & Language 🌱
+ <img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring"/>
