@@ -1,4 +1,4 @@
-    <div align= "center">
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=5f9b97&height=180&text=Bku%20GitHub&animation=&fontColor=e1e7df&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
@@ -22,7 +22,4 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
-    
-
     
