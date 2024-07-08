@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=5f9b97&height=180&text=Hyeon%20Kim&animation=&fontColor=e1e7df&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=5f9b97&height=180&text=Uihyeon%20Kim&animation=&fontColor=e1e7df&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 배우는 것을 좋아하는 백엔드 개발자 김의현입니다. </h2>  
