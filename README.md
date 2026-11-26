@@ -1,27 +1,20 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=5f9b97&height=180&text=Uihyeon%20Kim&animation=&fontColor=e1e7df&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 배우는 것을 좋아하는 백엔드 개발자 김의현입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 새로운 도전을 함으로 배우는 것을 즐기는 신입 개발자입니다. </li><br></li>항상 “왜” 라는 물음으로 코드나 기술에 접근하는 편입니다. </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:full1569@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:full1569@gmail.com"> </a>
-         <a href=https://velog.io/@qick12/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@qick12/posts"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+# 김의현
 
+불편한 걸 보면 직접 만들고, 사람들이 쓰게 될 때까지 고칩니다.
+
+기획부터 개발·배포·운영까지 혼자 해 왔습니다. AI 코딩 도구(Claude Code)와 함께 개발하고,
+무엇을 만들지 정하고 제대로 동작하는지 확인해서 내보내는 건 제가 합니다.
+
+### 만든 것
+
+- **취향끼리** — 같은 학교 대학생끼리 취향 맞는 사람을 문자로 이어준 서비스.
+  9일간 112명 참가, 매칭률 97.3% · `Nuxt` `FastAPI` `PostgreSQL` `AWS`
+- **피커데이** — 친구 약속 날짜를 앱이 정해주는 안드로이드 앱.
+  비공개 테스트 약속 11건 전부 확정, Google Play 정식 출시 준비 중 · `Nuxt` `Capacitor` `FastAPI`
+- **CogentAI** — Claude Code를 채팅 화면으로 쓰고 single-cell 분석을 버튼으로 돌리는 데스크톱 앱.
+  연구실 동료 2명 사용 · `Nuxt` `FastAPI` `R`
+- **태양초예약** — 50~60대 손님을 위한 고춧가루 가게 예약 주문 웹앱 · `JavaScript` `PostgreSQL` `Vercel`
+
+운영 중인 서비스라 저장소는 비공개입니다.
+
+**메일** qick12@naver.com
