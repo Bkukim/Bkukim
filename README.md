@@ -15,6 +15,6 @@
   연구실 동료 2명 사용 · `Nuxt` `FastAPI` `R`
 - **태양초예약** — 50~60대 손님을 위한 고춧가루 가게 예약 주문 웹앱 · `JavaScript` `PostgreSQL` `Vercel`
 
-운영 중인 서비스라 저장소는 비공개입니다.
+운영 중인 서비스라 저장소는 비공개입니다. 자세한 이야기는 포트폴리오에 있습니다.
 
-**메일** qick12@naver.com
+**포트폴리오** https://uihyeon-kim.vercel.app · **메일** qick12@naver.com
